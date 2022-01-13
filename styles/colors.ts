@@ -1,0 +1,17 @@
+enum Colors {
+  TANK_GREY = '#333333',
+  WHITE = '#FFFFFF',
+  DENIM = '#2E88C9',
+  SLATE_GREY = '#748691',
+  VERY_DARK_GRAYISH_BLUE = '#455B63',
+  BORDER_GREY = '#EBEBEB',
+  REQUIRED_RED = '#FF3B30',
+  STRONG_RED = '#FF3B30',
+  BUTTON_BG = '#0C813F',
+  RADIO_BORDER = '#D7D7D7',
+  DARK_BLUE = '#0F3979',
+  FIELD_NAME = '#A3B2B2',
+  LIGHT_GREY = '#C1C1C1',
+}
+
+export default Colors;
